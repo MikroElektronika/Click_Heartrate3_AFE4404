@@ -7,7 +7,7 @@
 
 [Manual Page](http://docs.mikroe.com/Heart_rate_3_click)
 
-[Learn Page](http://learn.mikroe.com/micro-controllers-have-a-heart-too/)
+[Learn Page](http://learn.mikroe.com/microcontrollers-have-a-heart-too/)
 
 ---
 

@@ -1,6 +1,6 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
-![Heartrate 3 Click](http://cdn.mikroe.com/img/click/heartrate-3/heartrate-3.png)
+![Heartrate 3 Click](http://cdn.mikroe.com/img/click/heart-rate-3/preview/heart-rate-3-click-thumb-02.png)
 
 ---
 [Product Page](http://www.mikroe.com/click/heart-rate-3/)

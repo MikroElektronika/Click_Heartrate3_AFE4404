@@ -3,9 +3,9 @@
 ![Heartrate 3 Click](http://cdn.mikroe.com/img/click/heartrate-3/heartrate-3.png)
 
 ---
-[Product Page](http://www.mikroe.com/click/heartrate-3)
+[Product Page](http://www.mikroe.com/click/heart-rate-3/)
 
-[Manual Page](http://docs.mikroe.com/Heartrate_3_click)
+[Manual Page](http://docs.mikroe.com/Heart_rate_3_click)
 
 [Learn Page](http://learn.mikroe.com/micro-controllers-have-a-heart-too/)
 
